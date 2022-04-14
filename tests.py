@@ -2,7 +2,7 @@
 Calificación del laboratorio
 -----------------------------------------------------------------------------------------
 """
-
+os.system('pip install pandas')'
 import sqlite3
 import sys
 
